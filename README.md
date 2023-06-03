@@ -1,6 +1,6 @@
-# gojek_duplicate
+# Gojek Duplicate Apps
 
-A new Flutter project.
+![http://url/to/img.png](https://gojek.design/images/logo/solv/gojek-logo.jpg)
 
 ## Getting Started
 
