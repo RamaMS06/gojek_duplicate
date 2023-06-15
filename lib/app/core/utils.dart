@@ -5,7 +5,12 @@ class Routes {
 }
 
 class AtomColors {
-  static const primaryColor = Color(0xff00AA13);
+  static const green1 = Color(0xff00880F);
+  static const green2 = Color(0xff00880F);
+
+  static const blue1 = Color(0xff0281A0);
+  static const blue2 = Color(0xff00AED5);
+  static const blue3 = Color(0xff00AED5);
 }
 
 class AtomTextStyle {
