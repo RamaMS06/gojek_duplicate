@@ -1,4 +1,4 @@
-package com.example.gojek_duplicate
+package com.rama.gojekduplicate
 
 import io.flutter.embedding.android.FlutterActivity
 

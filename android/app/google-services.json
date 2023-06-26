@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "980817375580",
+    "project_id": "gojek-duplicate-d0203",
+    "storage_bucket": "gojek-duplicate-d0203.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980817375580:android:623e2168dc2379e6f95199",
+        "android_client_info": {
+          "package_name": "com.rama.gojekduplicate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980817375580-5vho03plm7t95qm36shbmn7kpij2opte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA577nhGyZlkib7OB248SNysWm90ZijnIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980817375580-5vho03plm7t95qm36shbmn7kpij2opte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
