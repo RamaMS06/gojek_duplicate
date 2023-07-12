@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 
-class Routes {
-  static const searchPage = '/searchPage';
-}
+
 
 class AtomColors {
   static const green1 = Color(0xff00880F);
@@ -11,6 +9,8 @@ class AtomColors {
   static const blue1 = Color(0xff0281A0);
   static const blue2 = Color(0xff00AED5);
   static const blue3 = Color(0xff00AED5);
+
+  static const red1 = Color(0xffED2739);
 }
 
 class AtomTextStyle {
@@ -21,5 +21,5 @@ class AtomTextStyle {
       const TextStyle(fontFamily: 'Sans', fontWeight: FontWeight.w400);
 
   static TextStyle get sansBold =>
-      const TextStyle(fontFamily: 'Sans', fontWeight: FontWeight.w700);
+      const TextStyle(fontFamily: 'Sans', fontWeight: FontWeight.w500);
 }
