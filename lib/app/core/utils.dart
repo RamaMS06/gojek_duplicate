@@ -1,10 +1,6 @@
 import 'package:flutter/material.dart';
 
-class Routes {
-  static const searchPage = '/searchPage';
-  static const loginPage = '/loginPage';
-  static const homePage = '/homePage';
-}
+
 
 class AtomColors {
   static const green1 = Color(0xff00880F);
